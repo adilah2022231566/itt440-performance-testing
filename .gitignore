@@ -1,0 +1,4 @@
+# ignore large test result files and local backup
+results/*_test.json
+big_results_backup/
+venv/
